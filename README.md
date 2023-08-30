@@ -5,3 +5,5 @@ NPM     : 2206082480
 Kelas   : PBP C
 
 Hobi    : tidur
+
+Jurusan : Sistem Informasi
